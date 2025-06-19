@@ -16,7 +16,7 @@ Basic Landing Page built with **HTML and CSS** as part of [The Odin Project](htt
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   
 ## Demo 🚀
-Access the live demo [click here](#)
+Access the live demo [click here](https://nana-v1.github.io/landing_page/)
 
 ## Author
 Made with 🧡 by [Villarroel Giuliana](https://github.com/nana-v1) as part of **The Odin Project** - *Fundamentals*.
